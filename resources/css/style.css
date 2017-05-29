@@ -18,9 +18,20 @@ h1{
   color: aquamarine;
   font-size: 16px
 }
-/* Middle section */
+/* Main section */
 h2{
   font-size: 42px;
   font-weight: 300;
   color: white;
+}
+h3 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 21px;
+  color: gray;
+}
+/* Footer */
+h3.copyright {
+  text-align: right;
+  color: gray;
 }
